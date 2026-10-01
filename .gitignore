@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+data/uploads/*
+!data/uploads/ayurveda_test_knowledge_source.pdf
+!data/uploads/IP_SAKTI_proper_test_source_regulatory.pdf
